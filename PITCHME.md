@@ -77,6 +77,12 @@ But what about that corner?
 
 ![Foo](img/Flip1.png)
 
++++
+
+##### In data from that corner, there are a few distinct hotspots of support
+
+![Foo](img/big_support.png)
+
 ---
 
 ##### The simple explanation: Trump/Pence talked to those people, Hillary didn't.
