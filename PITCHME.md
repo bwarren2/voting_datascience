@@ -15,17 +15,25 @@ Let's get our hands dirty and really look.
 
 ##### Republican Presidential voting increased/decreased in these places
 
+![Foo](img/support.png)
+
 ---
 
 ##### +Trump voting is kind of related to HS-educated population, but what are those outliers?
+
+![Foo](img/dirty_cone.png)
 
 ---
 
 ##### Throwing away ID and UT, things get cleaner, but +Trump voting ~ HS-educated population is still messy
 
+![Foo](img/clean_cone.png)
+
 ---
 
 ##### Mostly, whiteness of county isn't related, but something happens at 93%ish
+
+![Foo](img/curve.png)
 
 ---
 
@@ -55,9 +63,13 @@ But what about that corner?
 
 ##### Drug deaths of despair are hotspots in two of the +Trump zones: KY/OH and MO
 
+![Foo](img/drugs.jpg)
+
 ---
 
 ##### If the other hotspot (IA/MN/WI) is responding to racism, why are they 2x Obama counties?
+
+![Foo](img/flip1.png)
 
 ---
 
