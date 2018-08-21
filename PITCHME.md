@@ -13,6 +13,12 @@ Let's get our hands dirty and really look.
 
 ---
 
+##### This is a bad chart.  Are these numbers up or down from 2012?
+
+![Foo](img/bad.png)
+
+---
+
 ##### Republican Presidential voting increased/decreased in these places
 
 ![Foo](img/support.png)
