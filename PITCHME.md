@@ -63,7 +63,7 @@ But what about that corner?
 
 ##### In data from that corner, there are a few distinct hotspots of support
 
-![Foo](img/big_support.jpg)
+![Foo](img/big_support.png)
 
 ---
 
