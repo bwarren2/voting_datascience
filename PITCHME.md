@@ -61,6 +61,12 @@ But what about that corner?
 
 ---
 
+##### In data from that corner, there are a few distinct hotspots of support
+
+![Foo](img/big_support.jpg)
+
+---
+
 ##### Drug deaths of despair are hotspots in two of the +Trump zones: KY/OH and MO
 
 ![Foo](img/drugs.jpg)
