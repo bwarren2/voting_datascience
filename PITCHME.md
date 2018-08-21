@@ -75,7 +75,7 @@ But what about that corner?
 
 ##### If the other hotspot (IA/MN/WI) is responding to racism, why are they 2x Obama counties?
 
-![Foo](img/flip1.png)
+![Foo](img/Flip1.png)
 
 ---
 
