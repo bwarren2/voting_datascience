@@ -108,6 +108,6 @@ But what about that corner?
 
 "The party of union labor" lost poor, HS-educated labor to Donald Trump.
 
-And our current pitch is "Have you considered not being HS-educated?"
+And our current pitch is "Have you considered not being HS-educated while we ignore you?"
 
 We fix this, or we keep losing.
