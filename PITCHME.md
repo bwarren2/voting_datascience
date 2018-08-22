@@ -51,11 +51,18 @@ What can we possibly do?
 
 ---
 
-##### The data is showing a couple distinct phenomena: a steep plane in the corner, and a flatter plane everywhere else.
+##### The 3D data is showing a couple distinct phenomena: a steep plane in the corner, and a flatter plane everywhere else.
 
 ![Foo](img/lean_rotate.gif)
 
 ---
+
+##### One little lie on the previous slide: that's 4D data.  Color is income, yellow is more, purple is less.
+
+![Foo](img/lean_rotate.gif)
+
+---
+
 
 Whiteness of county _isn't_ as strongly related to +Trump voting in the majority of the chart; undereducation (and poverty) are.
 
