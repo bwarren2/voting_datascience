@@ -102,6 +102,8 @@ But what about that corner?
 
 ##### The simple explanation: Trump/Pence talked to those people, Hillary didn't.
 
-![Foo](img/Visits.png)
+![Foo](img/visits.png)
 
 ---
+
+The part of poor labor lost poor, HS-educated labor to Donald Trump.  And our current pitch is "Have you considered not being HS-educated?"
