@@ -102,6 +102,6 @@ But what about that corner?
 
 ##### The simple explanation: Trump/Pence talked to those people, Hillary didn't.
 
-![Foo](img/visits.png)
+![Foo](img/Visits.png)
 
 ---
