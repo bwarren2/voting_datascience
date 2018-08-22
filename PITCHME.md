@@ -104,6 +104,12 @@ But what about that corner?
 
 ![Foo](img/dots.png)
 
++++
+
+##### In data from that corner, there are a few distinct hotspots of support
+
+![Foo](img/big_support.png)
+
 ---
 
 "The party of union labor" lost poor, HS-educated labor to Donald Trump.
