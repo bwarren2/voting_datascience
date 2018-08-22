@@ -51,7 +51,9 @@ What can we possibly do?
 
 ---
 
-The data is showing a couple distinct phenomena: a steep plane in the corner, and a flatter plane everywhere else.
+##### The data is showing a couple distinct phenomena: a steep plane in the corner, and a flatter plane everywhere else.
+
+![Foo](img/rotating.gif)
 
 ---
 
