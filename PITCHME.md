@@ -86,6 +86,12 @@ But what about that corner?
 
 ![Foo](img/drugs.jpg)
 
++++
+
+##### In data from that corner, there are a few distinct hotspots of support
+
+![Foo](img/big_support.png)
+
 ---
 
 ##### If the other hotspot (IA/MN/WI) is responding to racism, why are they 2x Obama counties?
