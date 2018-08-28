@@ -106,7 +106,7 @@ But what about that corner?
 
 ---
 
-##### The simple explanation: Trump/Pence talked to those people, Hillary didn't.
+##### The simple explanation: Trump/Pence visited those people, Hillary/Kaine didn't.
 
 ![Foo](img/dots.png)
 
@@ -116,10 +116,3 @@ But what about that corner?
 
 ![Foo](img/big_support.png)
 
----
-
-"The party of union labor" lost poor, HS-educated labor to Donald Trump.
-
-And our current pitch is "Have you considered not being HS-educated while we ignore you?"
-
-We fix this, or we keep losing.
