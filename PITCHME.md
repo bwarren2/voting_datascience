@@ -64,11 +64,11 @@ What can we possibly do?
 ---
 
 
-Whiteness of county _isn't_ as strongly related to +Trump voting in the majority of the chart; undereducation (and poverty) are.
+Whiteness of county _isn't_ as strongly related to +Trump voting in the majority of the chart; HS-education & less (and poverty) are.
 
 ---
 
-This is important, because the "Trumpists are racists!!!" explanation doesn't obviously explain this data.
+This is important, because the "Trump supporters are racist" explanation doesn't obviously explain this data.
 
 ---
 
