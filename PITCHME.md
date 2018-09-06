@@ -116,3 +116,29 @@ But what about that corner?
 
 ![Foo](img/big_support.png)
 
+---
+
+So what?
+
+---
+
+##### This is Brenda Brink.  She is running in Iowa 49, most of Story county
+
+![Foo](img/brenda.jpg)
+
+---
+
+##### This is what she is running on
+
+I believe that our rural communities are worth fighting for because we don’t have an Iowa without them. This campaign is about advocating for the people I’ve known my whole life: everyday Iowans who work hard and want the same opportunities for their kids that they had.
+
+We need to bring our prosperity back home. We need to bring our people back home. We need to bring our values back home. I’m Brenda Brink and I will work to bring it back home.
+
+
+---
+
++++
+
+##### In data from that corner, there are a few distinct hotspots of support
+
+![Foo](img/big_support.png)
