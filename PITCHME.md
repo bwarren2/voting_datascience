@@ -163,3 +163,18 @@ I was a parole officer for 38 years in Jackson, Clinton and Scott counties, and 
 ##### This is the balance of Iowa's state house
 
 ![Foo](img/composition.png)
+
++++
+
+##### This is the PAC my friend made, which I donated to.
+
+![Foo](img/measured.png)
+
+https://secure.actblue.com/donate/mpiowa?refcode=gdahl
+
+
+---
+
+Can you manage, for ten minutes, to care about these people? As _people_
+
+![Foo](img/composition.png)
