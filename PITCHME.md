@@ -146,7 +146,7 @@ We need to bring our prosperity back home. We need to bring our people back home
 
 ##### This is Tim McClimon
 
-![Foo](img/tim.webp)
+![Foo](img/tim.png)
 
 ---
 
