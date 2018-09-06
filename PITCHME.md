@@ -146,15 +146,13 @@ We need to bring our prosperity back home. We need to bring our people back home
 
 ##### This is Tim McClimon
 
-![Foo](img/tim.png)
+![Foo](img/tim2.png)
 
 ---
 
 ##### This is what he is running on
 
-I’m running for the Iowa House because I am concerned about the future of our state. I’ve lived my entire life in Clinton County and know there is no better place to live, work and raise a family.
-
-But recently, our state has changed course in a way that has undermined the very things that have always made Iowa strong – a job-ready workforce, world-class education, vibrant rural communities and sound fiscal policies.
+I’ve lived my entire life in Clinton County and know there is no better place to live, work and raise a family.  But recently, our state has changed course in a way that has undermined the very things that have always made Iowa strong – a job-ready workforce, world-class education, vibrant rural communities and sound fiscal policies.
 
 I was a parole officer for 38 years in Jackson, Clinton and Scott counties, and I’ve seen firsthand how important smart investments in critical public services are to the health and prosperity of our communities.
 
