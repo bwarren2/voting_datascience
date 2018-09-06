@@ -173,6 +173,4 @@ https://secure.actblue.com/donate/mpiowa?refcode=gdahl
 
 ---
 
-Can you manage, for ten minutes, to care about these people? As _people_
-
-![Foo](img/composition.png)
+Can you manage, for ten minutes, to care about these people? As _people_?
